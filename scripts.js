@@ -10,6 +10,6 @@ typewriter.typeString("Hello World! I'm Renzo, a Software Engineer. 😎")
     .typeString('Welcome to my website!')
     .pauseFor(2500)
     .deleteChars(7)
-    .typeString('<strong>altered!</strong>')
+    .typeString('<strong>SHEESH</strong>')
     .pauseFor(2500)
     .start();
